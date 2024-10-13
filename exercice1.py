@@ -22,3 +22,5 @@ print(c)
 d = np.random.rand(3, 3)
 print(d)
 print("moodification by syrine in feature 1")
+print("modify by syrine in feature2")
+
