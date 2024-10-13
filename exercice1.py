@@ -21,4 +21,4 @@ print(c)
 # Création d'un tableau rempli de valeurs aléatoires
 d = np.random.rand(3, 3)
 print(d)
-
+print("modify by syrine in feature2")
